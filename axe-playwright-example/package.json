@@ -1,0 +1,21 @@
+{
+  "name": "axe-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@axe-core/playwright": "^4.8.5",
+    "@playwright/test": "^1.43.1",
+    "@types/node": "^20.12.7",
+    "axe-html-reporter": "^2.2.3",
+    "axe-reporter-html": "^1.1.0",
+    "handlebars": "^4.7.8",
+    "allure-playwright": "^2.15.0",
+    "allure-commandline": "^2.27.0",
+    "typescript": "^5.2.2"
+  }
+}

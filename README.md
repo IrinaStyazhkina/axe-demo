@@ -1,11 +1,11 @@
 # axe-demo
 Примеры тестирования доступности с использвованием библиотеки axe
 
-1. axe-playwright содержит пример теста на Typescript + Playwright
+1. axe-playwright-example содержит пример теста на Typescript + Playwright
 
 Чтобы запустить тесты, необходимо:
- - перейти в консоли в папку axe-playwright 
-```cd axe-playwright```
+ - перейти в консоли в папку axe-playwright-example 
+```cd axe-playwright-example```
  - установить зависимости проекта
 ```
     npm i
